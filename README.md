@@ -1,9 +1,9 @@
 # jenkins-docker-kubernetes
 A CI/CD pipeline to deploy application on kubernetes cluster using jenkins \
 \
-Plugins needed on jenkins: \ 
-1. docker-pipeline \
-2. Kubernetes-cli \
+Plugins needed on jenkins: 
+1. docker-pipeline 
+2. Kubernetes-cli 
 
 ```bash
 #!/bin/bash
